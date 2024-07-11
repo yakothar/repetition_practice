@@ -1,6 +1,6 @@
-package com.multiplication;
+package repetition_practice.src.main.java.com.multiplication;
 
-public class App 
+public class Multiplication 
 {
     public static void main(String[] args )// main function calculates table from 0 to 12
     {
